@@ -18,13 +18,14 @@ struct book {
     struct issued_date date;
 };
 
-int main() {
+
+void expensechecker() {
     FILE *fp = fopen("library.txt", "r");
     if (fp == NULL) {
         printf("Error: Could not open library.txt. Make sure the file exists!\n");
         return 1;
     }
-
+  
     struct book current_book, min_book, max_book;
     char header_buffer[256];
     int count = 0;
@@ -72,9 +73,10 @@ int main() {
         printf("\nLeast Expensive Book:\n");
         printf("Name: %s  Price: $%d  Author: %s\n", 
                 min_book.name.book_name, min_book.price, min_book.name.author_name);
-    } else {
+    } 
+    else {
         printf("No valid book records found in the file.\n");
     }
 
-    return 0;
 }
+
