@@ -1,0 +1,27 @@
+Book name    Author name  Category  Issued date(DD MM YYYY)  Price
+------------------------------------------------------------------
+Digital_Transformation John Smith management 12 03 2026 3500
+AI_Revolution Alice Johnson cs 25 07 2025 4200
+Cloud_Computing_Basics Robert Brown it 05 11 2025 2800
+Business_Analytics Emily Davis management 19 01 2026 5000
+Cyber_Security_Guide Michael Wilson network 02 02 2026 3900
+Database_Design Sarah Miller database 14 06 2025 2500
+Leadership_In_Tech David Taylor management 30 09 2025 6100
+Programming_Fundamentals Laura Anderson cs 08 03 2026 2200
+IT_Project_Management Daniel Thomas it 17 04 2026 4500
+Strategic_Management Sophia White management 21 05 2025 3700
+Machine_Learning_Basics James Harris cs 10 08 2025 3200
+Networking_Essentials Olivia Martin network 03 10 2025 2700
+Advanced_Databases William Thompson database 28 12 2025 6800
+Innovation_Management Emma Garcia management 07 01 2026 4100
+Operating_Systems Noah Martinez cs 15 02 2026 2900
+Enterprise_IT Jacob Robinson it 09 03 2026 5300
+Financial_Management Mia Clark management 22 04 2026 3600
+Data_Science_Intro Ethan Lewis cs 11 05 2025 4700
+Cloud_Architecture Grace Walker it 18 06 2025 6200
+Organizational_Behavior Benjamin Hall management 24 07 2025 3300
+Computer_Networks Lily Allen network 29 08 2025 2800
+Big_Data_Analytics Henry Young database 13 09 2025 7000
+Change_Management Chloe King management 05 10 2025 2600
+Software_Engineering Lucas Scott cs 27 02 2026 3400
+Computer_fundamentals Anita Goel cs 20 3 2026 600
