@@ -29,7 +29,7 @@ void addbooks() {
     clrscr();
 
     printf("Enter book name: ");
-    fflush(stdin);
+    fflush(stdin);  // to clear input buffer
     gets(lib.name.book_name);
 
     printf("Enter author first name: ");
