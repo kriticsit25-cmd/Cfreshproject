@@ -30,7 +30,7 @@ void addbooks() {
     clrscr();
 
     printf("Enter book name: ");
-    fflush(stdin);
+    fflush(stdin);  // to clear the input buffer.
     gets(lib.name.book_name);
 
     printf("Enter author first name: ");
@@ -114,7 +114,7 @@ void display_books() {
 	if (y > 450) {
 	    outtextxy(20, y, "--Press any key for more--");
 	    getch();
-	    cleardevice();
+	    cleardevice();  // to clear the graphics screen and reset the current position coordinates to (0,0).
 	    rectangle(10, 10, 630, 470);
 	    setfillstyle(SOLID_FILL,BLUE);
 	    floodfill(15, 15, WHITE);
